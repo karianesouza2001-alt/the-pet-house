@@ -1,0 +1,48 @@
+
+THE PET HOUSE - ARQUIVO DE AJUDA
+
+1. APRESENTAÇÃO
+
+A The Pet House é uma plataforma web de pet shop,
+desenvolvida para apresentar produtos e serviços
+destinados aos cuidados de animais de estimação.
+
+2. PÁGINA INICIAL
+
+A página inicial apresenta o pet shop e disponibiliza
+o menu de navegação para acessar as demais páginas.
+
+3. PÁGINA DE PRODUTOS
+
+Apresenta os produtos divididos em três categorias:
+
+- Acessórios;
+- Rações não perecíveis;
+- Higiene e limpeza.
+
+Cada produto possui imagem, descrição e valor.
+
+4. PÁGINA DE SERVIÇOS
+
+Apresenta as opções de banho e tosa:
+
+- Banho e tosa sem tele-busca;
+- Banho e tosa com tele-busca.
+
+Cada serviço apresenta sua descrição e seu valor.
+
+5. PÁGINA DE AJUDA
+
+Apresenta orientações sobre a navegação,
+os produtos, os serviços e o contato do pet shop.
+
+6. NAVEGAÇÃO
+
+O usuário pode utilizar o menu localizado no cabeçalho
+para acessar as páginas do sistema.
+
+7. OBSERVAÇÃO
+
+Esta versão corresponde à Fase 1 do projeto,
+desenvolvida com HTML, sem CSS, Bootstrap ou JavaScript.
+
